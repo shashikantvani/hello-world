@@ -1,2 +1,3 @@
 # hello-world
-this is my own project repository
+
+hello human, i like advnaced php and oops programming.
